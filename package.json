@@ -1,0 +1,29 @@
+{
+  "name": "timestamp-microservice",
+  "version": "0.0.1",
+  "description": "A freeCodeCamp Backend Challenge",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.0",
+    "dotenv": "^16.0.3",
+    "express": "^4.12.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Donmutalib/timestamp-microservice.git"
+  },
+  "bugs": {
+    "url": "https://github.com/freeCodeCamp/freeCodeCamp/issues"
+  },
+  "homepage": "",
+  "author": "freeCodeCamp <team@freecodecamp.org>",
+  "keywords": [
+    "node",
+    "express",
+    "freeCodeCamp"
+  ],
+  "license": "MIT"
+}
